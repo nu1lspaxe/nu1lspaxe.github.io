@@ -1,9 +1,9 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# About me
 
-::github{repo="saicaca/fuwari"}
+- 🧑‍💻 A backend developer
+- ✨ With experience in building full-stack websites, servers, smart contracts and machine learning related projects
+- 🌐 Passionate about new technologies, including web development, AI, cloud, and blockchain, etc.
+- 🦾 Enjoy collaborating with teammates in hackathons and exciting projects
+- 🐛 A good self-learner having an appetite for knowledge and well problem-solving ability
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+**DM me with Telegram if any business contacts, invitations, or just want to know me more :)**
