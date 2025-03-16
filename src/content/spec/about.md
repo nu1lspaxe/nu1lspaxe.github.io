@@ -1,7 +1,7 @@
 # About me
 
 - 🧑‍💻 A backend developer
-- ✨ With experience in building full-stack websites, servers, smart contracts and machine learning related projects
+- ✨ With experience in building full-stack websites, servers, smart contracts and machine learning
 - 🌐 Passionate about new technologies, including web development, AI, cloud, and blockchain, etc.
 - 🦾 Enjoy collaborating with teammates in hackathons and exciting projects
 - 🐛 A good self-learner having an appetite for knowledge and well problem-solving ability
