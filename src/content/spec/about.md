@@ -1,8 +1,8 @@
 # About me
 
 - 🧑‍💻 A backend developer
-- ✨ With experience in building full-stack websites, mobile apps, game servers, devops, and several hackathons
-- 🌐 Passionate about new technologies, including web development, mobile application, AI, cloud, and blockchain, etc.
+- ✨ With experience in various fields
+- 🌐 Passionate about new technologies
 - 🦾 Enjoy collaborating with teammates in hackathons and exciting projects
 - 🐛 A good self-learner having an appetite for knowledge and well problem-solving ability
 
