@@ -29,7 +29,8 @@ if (!fileExtensionRegex.test(fileName)) {
 }
 
 const targetDir = "./src/content/posts/"
-const fullPath = path.join(targetDir, fileName)
+const postDir = path.join(targetDir, path.basename(fileName, path.extname(fileName)))
+const fullPath = path.join(postDir, fileName)
 
 if (fs.existsSync(fullPath)) {
   console.error(`Error: File ${fullPath} already exists `)
@@ -48,6 +49,7 @@ lang: ''
 ---
 `
 
-fs.writeFileSync(path.join(targetDir, fileName), content)
+fs.mkdirSync(postDir, { recursive: true })
+fs.writeFileSync(fullPath, content)
 
 console.log(`Post ${fullPath} created`)
