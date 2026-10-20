@@ -67,6 +67,15 @@ export type LicenseConfig = {
   url: string
 }
 
+export type SubscribeConfig = {
+  enable: boolean
+  formAction: string
+  title?: string
+  description?: string
+  placeholder?: string
+  buttonText?: string
+}
+
 export type LIGHT_DARK_MODE =
   | typeof LIGHT_MODE
   | typeof DARK_MODE

@@ -3,6 +3,7 @@ import type {
   NavBarConfig,
   ProfileConfig,
   SiteConfig,
+  SubscribeConfig,
 } from './types/config'
 import { LinkPreset } from './types/config'
 
@@ -79,4 +80,13 @@ export const licenseConfig: LicenseConfig = {
   enable: true,
   name: 'CC BY-NC-SA 4.0',
   url: 'https://creativecommons.org/licenses/by-nc-sa/4.0/',
+}
+
+export const subscribeConfig: SubscribeConfig = {
+  enable: true,
+  formAction: 'https://f6891cb0.sibforms.com/serve/MUIFAKQcJfnc707tlUJt4NfoH3eGChSLBIw6FY6drrjp8J5BVSzZjBSOnlpOWtGLf7P-HmNIAzmGBkjIZoZBakwxOHOLLfqVIRIcx8xeW0tqXvBhVz4sDgr2T9ox8LJvPxHu3bzVfaKggzmb-OJFFmZt3g_J2CQqdnzR7T2rQxDe-Gbo0mG2BCxVchLzHsyQdOzRMuy-_cmoCIkEzw==',
+  title: 'Subscribe to New Posts',
+  description: 'Get notified via email whenever a new article is published. No spam, unsubscribe anytime.',
+  placeholder: 'Enter your email address...',
+  buttonText: 'Subscribe',
 }
